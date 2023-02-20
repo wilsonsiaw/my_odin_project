@@ -8,6 +8,13 @@ h1 {
     font-family: monospace, serif, sans-serif;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
 .list-item {
     text-align: center;
     color: lightcyan;
