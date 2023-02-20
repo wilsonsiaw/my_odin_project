@@ -8,5 +8,10 @@ h1 {
     font-family: monospace, serif, sans-serif;
 }
 
+.list-item {
+    text-align: center;
+    color: lightcyan;
+}
+
 
 
