@@ -13,6 +13,24 @@ h2 {
     font-family: monospace, serif, sans-serif;
 }
 
+.index-p {
+    background-color: yellow;
+    color: red;
+}
+
+#homemade-index {
+    color: orange;
+    font-size: 35px;
+}
+
+.steps {
+    background-color: greenyellow;
+}
+
+.recipe {
+    background-color: blueviolet;
+}
+
 .center {
     display: block;
     margin-left: auto;
